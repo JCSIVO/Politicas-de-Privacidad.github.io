@@ -2,7 +2,7 @@
 
 Última actualización: Marzo 2026
 
-Aplicaciones: Novena de la Teja / Thirty Seconds Games
+Aplicaciones: Novena de la Teja / Thirty Seconds Games / TheraLink App / OnlyFaith App
 
 1. Recopilación de Información
 Nuestras aplicaciones están diseñadas para respetar la privacidad del usuario. No recopilamos, almacenamos ni compartimos ningún tipo de dato personal, identificadores de dispositivo, ni información de uso.
