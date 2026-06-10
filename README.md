@@ -1,6 +1,6 @@
 # Política de Privacidad
 
-Última actualización: Marzo 2026
+Última actualización: Junio 2026
 
 Aplicaciones: Novena de la Teja / Thirty Seconds Games / TheraLink App / OnlyFaith App / MyRosay Kids: Holy Rosary
 
