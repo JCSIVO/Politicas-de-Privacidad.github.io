@@ -2,7 +2,7 @@
 
 Última actualización: Junio 2026
 
-Aplicaciones: Novena de la Teja / Thirty Seconds Games / TheraLink App / OnlyFaith App / MyRosay Kids: Holy Rosary
+Aplicaciones: Novena de la Teja / Thirty Seconds Games / TheraLink App / OnlyFaith App / MyRosay Kids: Holy Rosary  
 
 1. Recopilación de Información
 Nuestras aplicaciones están diseñadas para respetar la privacidad del usuario. No recopilamos, almacenamos ni compartimos ningún tipo de dato personal, identificadores de dispositivo, ni información de uso.
