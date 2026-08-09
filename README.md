@@ -1,19 +1,48 @@
-# Política de Privacidad
+# Política de Privacidad / Privacy Policy
 
-Última actualización: Junio 2026
+**Última actualización / Last updated:** Agosto 2026 / August 2026
 
-Aplicaciones: Novena de la Teja / Thirty Seconds Games / TheraLink App / OnlyFaith App / MyRosay Kids: Holy Rosary  
+Documento oficial de privacidad de las aplicaciones de **JCSIVO**. El documento
+canónico es [`index.html`](index.html), que contiene la política completa en
+**10 idiomas**:
 
-1. Recopilación de Información
-Nuestras aplicaciones están diseñadas para respetar la privacidad del usuario. No recopilamos, almacenamos ni compartimos ningún tipo de dato personal, identificadores de dispositivo, ni información de uso.
+| Idioma | Código |
+|--------|--------|
+| Español | `es` |
+| English | `en` |
+| Italiano | `it` |
+| Français | `fr` |
+| Português | `pt` |
+| Deutsch | `de` |
+| 中文 (简体) | `zh` |
+| 한국어 | `ko` |
+| 日本語 | `ja` |
+| Русский | `ru` |
 
-2. Compras y Donaciones (In-App Purchases)
-Todas las transacciones monetarias y donaciones se realizan exclusivamente a través del sistema de pagos de Apple Inc.
-Nosotros no tenemos acceso a sus números de tarjeta de crédito, cuentas bancarias ni datos de facturación.
-Dicha información es gestionada y protegida por Apple bajo sus propios términos de servicio y política de privacidad.
+## Aplicaciones / Applications
 
-3. Cookies y Seguimiento
-No utilizamos cookies, herramientas de análisis de terceros (como Google Analytics) ni servicios de publicidad que rastreen su actividad.
+- Fiestas Caudete
+- Thirty Seconds Games
+- Novena de la Teja
+- OnlyFaith App
+- TheraLink App
+- MyRosary Kids: Holy Rosary
+- Hoop It Orbital Catch
+- Focus Flow
+- Saboria
+- Escrutatio
 
-4. Menores de Edad
-Al no recopilar ningún tipo de información, nuestras aplicaciones son seguras para usuarios de todas las edades, cumpliendo con las normativas de protección de menores en la App Store.
+## Uso / Usage
+
+La política está pensada para publicarse como página web (p. ej. GitHub Pages)
+y usarse como URL de Política de Privacidad en **Google Play Console** y
+**App Store Connect**.
+
+Enlaces oficiales de los proveedores citados en la política:
+
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [Firebase Privacy & Security](https://firebase.google.com/support/privacy)
+
+## Contacto / Contact
+
+Para cualquier duda sobre esta política: **josesivo007@gmail.com**
