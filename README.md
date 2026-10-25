@@ -22,7 +22,7 @@ canónico es [`index.html`](index.html), que contiene la política completa en
 ## Aplicaciones / Applications
 
 - Fiestas Caudete
-- Thirty Seconds Game
+- Inner Clock
 - Novena de la Teja
 - OnlyFaith App
 - TheraLink App
