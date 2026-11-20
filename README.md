@@ -26,7 +26,7 @@ canónico es [`index.html`](index.html), que contiene la política completa en
 - Novena Virgen de la Teja — política propia: [`novena-virgen-de-la-teja.html`](novena-virgen-de-la-teja.html)
 - OnlyFaith App — apartado propio dentro de `index.html` (`#onlyfaith-es`, `#onlyfaith-en`…)
 - TheraLink App
-- MyRosary Kids: Holy Rosary
+- MyRosary Kids: Holy Rosary — apartado propio dentro de `index.html` (`#myrosary-kids-es`, `#myrosary-kids-en`…)
 - Hoop It Orbital Catch
 - Focus Flow
 - Saboria
