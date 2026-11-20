@@ -1,6 +1,6 @@
 # Política de Privacidad / Privacy Policy
 
-**Última actualización / Last updated:** Agosto 2026 / August 2026
+**Última actualización / Last updated:** Noviembre 2026 / November 2026
 
 Documento oficial de privacidad de las aplicaciones de **JCSIVO**. El documento
 canónico es [`index.html`](index.html), que contiene la política completa en
@@ -23,7 +23,7 @@ canónico es [`index.html`](index.html), que contiene la política completa en
 
 - Fiestas Caudete
 - Inner Clock
-- Novena de la Teja
+- Novena Virgen de la Teja — política propia: [`novena-virgen-de-la-teja.html`](novena-virgen-de-la-teja.html)
 - OnlyFaith App
 - TheraLink App
 - MyRosary Kids: Holy Rosary
