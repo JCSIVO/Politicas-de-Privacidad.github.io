@@ -30,7 +30,7 @@ canónico es [`index.html`](index.html), que contiene la política completa en
 - Hoop It Orbital Catch
 - Focus Flow
 - Saboria
-- Escrutatio
+- Escrutatio — política propia: [`escrutatio.html`](escrutatio.html)
 
 ## Uso / Usage
 
