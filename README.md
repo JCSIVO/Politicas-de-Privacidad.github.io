@@ -29,7 +29,7 @@ canónico es [`index.html`](index.html), que contiene la política completa en
 - MyRosary Kids: Holy Rosary — apartado propio dentro de `index.html` (`#myrosary-kids-es`, `#myrosary-kids-en`…)
 - Hoop It Orbital Catch
 - Focus Flow
-- Saboria
+- Saboria — política propia: [`saboria.html`](saboria.html)
 - Escrutatio — política propia: [`escrutatio.html`](escrutatio.html)
 
 ## Uso / Usage
