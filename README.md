@@ -27,7 +27,7 @@ canónico es [`index.html`](index.html), que contiene la política completa en
 - OnlyFaith App — apartado propio dentro de `index.html` (`#onlyfaith-es`, `#onlyfaith-en`…)
 - TheraLink App
 - MyRosary Kids: Holy Rosary — apartado propio dentro de `index.html` (`#myrosary-kids-es`, `#myrosary-kids-en`…)
-- Hoop It Orbital Catch
+- Hoop It Orbital Catch — política propia: [`hoop-it-orbital.html`](hoop-it-orbital.html)
 - Focus Flow
 - Saboria — política propia: [`saboria.html`](saboria.html)
 - Escrutatio — política propia: [`escrutatio.html`](escrutatio.html)
